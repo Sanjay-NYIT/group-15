@@ -34,5 +34,5 @@ No external libraries are required for this script.
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/extended-euclidean.git
+   git clone https://github.com/Sanjay-NYIT/PROJECT.git
    cd extended-euclidean
